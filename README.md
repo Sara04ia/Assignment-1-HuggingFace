@@ -51,4 +51,3 @@ Evaluation Criteria
 - Clarity and completeness of the report.
 - Usability and functionality of the search engine interface.
 
-#Please don't use any Generative AI Models
