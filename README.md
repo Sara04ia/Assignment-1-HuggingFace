@@ -20,7 +20,7 @@ for Example
 # **HF inference endpoints**
 **Answer :** Hugging Face Inference Endpoints allow developers to deploy and serve machine learning models as scalable APIs
 
-# ** Give feedback on the image generation and explore different models available on the Hugging Face website**
+# **Give feedback on the image generation and explore different models available on the Hugging Face website**
 **Answer:** Hugging Face offers a variety of models and tools that makes it easy to experiment with these models through APIs which is great for both developers and non-technical users.
 
 
